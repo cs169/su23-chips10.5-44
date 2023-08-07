@@ -1,0 +1,13 @@
+project:
+  name: 'CHIPS 10.5 Team 44'
+  owner: 'CS 169A'
+  teamId: '44'
+  identities:
+    github: https://github.com/cs169/su23-chips10.5-44.git
+  notifications:
+    slack_enc: U2FsdGVkX1+KqjHZuaIvvGpGDe7G8RkGJeV5JlztWoYpURZIpco6G8fTfXlTKXp4RnNE+EClySfmRQcTtNWPJTZni6i2XBBgS8orFnaMjOhHskJDotgToHSZ0755EqKl
+  members:
+    member1:
+      name: Simon
+      surname: Jovanovic
+      githubUsername: simonbjov
